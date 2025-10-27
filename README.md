@@ -6,3 +6,7 @@ Supported features:
 - delete books 
 Stack: Java 21, Spring boot, Spring Data, Hibernate, Docker, Docker compose, jsp
 
+How to launch
+```
+docker compose up -d --build
+```
