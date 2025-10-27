@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:17
+    container_name: postgres_container 
+    ports:
+      - "5432:5432"
+    environment:
+       POSTRES_DB: book_db
+       POSTGRES_USER: admin 
+       POSTGRES_PASSWORD: 123
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: always
+volumes:
+  postgres_data:
