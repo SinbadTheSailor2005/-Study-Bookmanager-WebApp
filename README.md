@@ -7,7 +7,10 @@ Supported features:
 Stack: Java 21, Spring boot, Spring Data, Hibernate, Docker, Docker compose, jsp
 
 
-Uploading 2025-10-27 16-16-07.mp4…
+
+https://github.com/user-attachments/assets/92d3ebb8-ed83-4f1f-8c13-b08216c17eb4
+
+
 
 
 How to launch
